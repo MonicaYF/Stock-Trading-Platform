@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+	<canceled>
+		<canceled shares="50" time="1523069838.51226"/>
+	</canceled>
+	<canceled>
+		<canceled shares="500" time="1523069838.54368"/>
+	</canceled>
+</results>

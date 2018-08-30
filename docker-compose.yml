@@ -1,0 +1,22 @@
+version: '2'
+
+services:
+  my_server:
+    image: postgres
+    volumes:
+      - ./initial_sql:/docker-entrypoint-initdb.d
+    expose:
+      - "5432"
+    ports:
+      - "6556:5432"
+  server:
+    build: ./mycodes
+    command: bash -c "make && sleep 5 && ./myServer"
+    volumes:
+      - ./mycodes:/hw4
+    expose:
+     - "12345"
+    ports:
+     - "12345:12345"
+    depends_on:
+     - my_server

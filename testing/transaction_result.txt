@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+	<opened SYM="SYM1" amount="-500" limit="11" uid="1"/>
+</results>
+<results>
+	<opened SYM="SYM0" amount="50" limit="20" uid="2"/>
+</results>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+	<opened SYM="SYM2" amount="-500" limit="11" uid="3"/>
+</results>
+<results>
+	<opened SYM="SYM1" amount="50" limit="20" uid="4"/>
+</results>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+	<opened SYM="SYM3" amount="-500" limit="11" uid="5"/>
+</results>
+<results>
+	<opened SYM="SYM2" amount="50" limit="20" uid="6"/>
+</results>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+	<opened SYM="SYM4" amount="-500" limit="11" uid="7"/>
+</results>
+<results>
+	<opened SYM="SYM3" amount="50" limit="20" uid="8"/>
+</results>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+	<opened SYM="SYM5" amount="-500" limit="11" uid="9"/>
+</results>
+<results>
+	<opened SYM="SYM4" amount="50" limit="20" uid="10"/>
+</results>

@@ -1,0 +1,1 @@
+When first run sudo docker-compose up, the database may fail to open. We think we have fixed the problem. But if still happen, please try "control + z" to kill the program and compose up again. 

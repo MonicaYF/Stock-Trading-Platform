@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+	<status>
+		<open shares="450"/>
+		<executed shares="50" price="11" time="1523069799.98061"/>
+	</status>
+	<status>
+		<canceled shares="50" time="1523069838.51226"/>
+	</status>
+</results>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+	<status>
+		<open shares="450"/>
+		<executed shares="50" price="11" time="1523069800.31216"/>
+	</status>
+	<status>
+		<executed shares="50" price="11" time="1523069799.98061"/>
+	</status>
+</results>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+	<status>
+		<open shares="450"/>
+		<executed shares="50" price="11" time="1523069800.45637"/>
+	</status>
+	<status>
+		<executed shares="50" price="11" time="1523069800.31216"/>
+	</status>
+</results>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+	<status>
+		<open shares="450"/>
+		<executed shares="50" price="11" time="1523069800.66264"/>
+	</status>
+	<status>
+		<executed shares="50" price="11" time="1523069800.45637"/>
+	</status>
+</results>

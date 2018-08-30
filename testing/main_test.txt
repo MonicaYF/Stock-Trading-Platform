@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+	<created ID="1"/>
+	<created ID="1" SYM="SYM1"/>
+</results>
+<results>
+	<opened SYM="SYM1" amount="-500" limit="11" uid="1"/>
+</results>
+<results>
+	<opened SYM="SYM1" amount="50" limit="20" uid="2"/>
+</results>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+	<created ID="2"/>
+	<created ID="2" SYM="SYM2"/>
+</results>
+<results>
+	<opened SYM="SYM2" amount="-500" limit="11" uid="3"/>
+</results>
+<results>
+	<opened SYM="SYM2" amount="50" limit="20" uid="4"/>
+</results>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+	<created ID="3"/>
+	<created ID="3" SYM="SYM3"/>
+</results>
+<results>
+	<opened SYM="SYM3" amount="-500" limit="11" uid="5"/>
+</results>
+<results>
+	<opened SYM="SYM3" amount="50" limit="20" uid="6"/>
+</results>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+	<created ID="4"/>
+	<created ID="4" SYM="SYM4"/>
+</results>
+<results>
+	<opened SYM="SYM4" amount="-500" limit="11" uid="7"/>
+</results>
+<results>
+	<opened SYM="SYM4" amount="50" limit="20" uid="8"/>
+</results>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+	<created ID="5"/>
+	<created ID="5" SYM="SYM5"/>
+</results>
+<results>
+	<opened SYM="SYM5" amount="-500" limit="11" uid="9"/>
+</results>
+<results>
+	<opened SYM="SYM5" amount="50" limit="20" uid="10"/>
+</results>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+	<created ID="6"/>
+	<created ID="6" SYM="SYM6"/>
+</results>
+<results>
+	<opened SYM="SYM6" amount="-500" limit="11" uid="11"/>
+</results>
+<results>
+	<opened SYM="SYM6" amount="50" limit="20" uid="12"/>
+</results>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+	<created ID="7"/>
+	<created ID="7" SYM="SYM7"/>
+</results>
+<results>
+	<opened SYM="SYM7" amount="-500" limit="11" uid="13"/>
+</results>
+<results>
+	<opened SYM="SYM7" amount="50" limit="20" uid="14"/>
+</results>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+	<created ID="8"/>
+	<created ID="8" SYM="SYM8"/>
+</results>
+<results>
+	<opened SYM="SYM8" amount="-500" limit="11" uid="15"/>
+</results>
+<results>
+	<opened SYM="SYM8" amount="50" limit="20" uid="16"/>
+</results>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+	<created ID="9"/>
+	<created ID="9" SYM="SYM9"/>
+</results>
+<results>
+	<opened SYM="SYM9" amount="-500" limit="11" uid="17"/>
+</results>
+<results>
+	<opened SYM="SYM9" amount="50" limit="20" uid="18"/>
+</results>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<results>
+	<created ID="10"/>
+	<created ID="10" SYM="SYM10"/>
+</results>
+<results>
+	<opened SYM="SYM10" amount="-500" limit="11" uid="19"/>
+</results>
+<results>
+	<opened SYM="SYM10" amount="50" limit="20" uid="20"/>
+</results>

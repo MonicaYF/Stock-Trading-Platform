@@ -1,0 +1,32 @@
+We use shell to create and send xml files to server, to enable each shell file work, run:
+change  “nc vcm-3813.vm.duke.edu 12345” in each file to the vcm you run.
+
+chmod +x ./create.sh
+chmod +x ./transaction.sh
+chmod +x ./query.sh
+chmod +x ./cancel.sh
+chmod +x ./main_test.sh
+
+Function test:
+
+1, run ./create.sh. 
+
+2, run rm *xml       This step is to ensure that there is no xml file in current directory, because the next step will add new lines to existing xml files instead of override them, and this will cause xml format error. We should avoid this happening.
+
+3, run ./transaction
+
+4, run rm *xml
+
+5, run ./cancel.sh
+
+6, run rm *xml
+
+7, run ./query.sh
+
+Scalability test:
+
+Those seven step can create account, transaction, query and cancel. To run next teas case, close the server and run it again. So all accounts created in the table will be deleted. You can change the value “up” in main_test.sh, it represents the number of xml files send to server. Note: There are two “up” you need to change in main_test.sh 
+
+1, run rm *xml
+
+2, run ./main_test.sh
